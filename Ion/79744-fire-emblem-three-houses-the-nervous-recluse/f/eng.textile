@@ -8,7 +8,7 @@ Fire Emblem: The Nervous Recluse
 
 Connecting story to The Mage Prodigy:
 
-$iframe data-embed-src="https://www.omorashi.org/topic/72807-fire-emblem-three-houses-the-mage-prodigy?do=embed"
+$/72807-fire-emblem-three-houses-the-mage-prodigy/
 
 Part 1
 
